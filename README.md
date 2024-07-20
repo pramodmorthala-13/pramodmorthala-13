@@ -18,6 +18,9 @@
 <li>
 <p dir="auto">💬 Ask me about <strong>HTML | CSS | SCSS | LESS | JS | ReactJS | Tailwind | GatsbyJs | ReactJs</strong></p>
 </li>
+ <li>
+<p dir="auto">📫 <strong><a href="www.pramodmorthala.in">Portfolio</a></strong></p>
+</li>
 <li>
 <p dir="auto">📫 How to reach me <strong><a href="mailto:pramod.morthala@gmail.com">pramod.morthala@gmail.com</a></strong></p>
 </li>

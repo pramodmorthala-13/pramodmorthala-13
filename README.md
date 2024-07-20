@@ -6,7 +6,7 @@
 <p dir="auto">🔭 I’m currently working on [E-Commerce]</p>
 </li>
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>Ruby</strong></p>
+<!-- <p dir="auto">🌱 I’m currently learning <strong>Ruby</strong></p> -->
 </li>
 <li>
 <p dir="auto">👯 I’m looking to collaborate on <strong>MERN Stack</strong></p>
